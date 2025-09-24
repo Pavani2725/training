@@ -1,3 +1,8 @@
  this is new commit 1 
+<<<<<<< HEAD
  working with branch 
  conflict demo 
+=======
+ conflict demo demo 
+>>>>>>> dev-3
+fixed the conflict
