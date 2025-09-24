@@ -1,2 +1,3 @@
  this is new commit 1 
  working with branch 
+ conflict demo 
