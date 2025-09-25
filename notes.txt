@@ -9,3 +9,5 @@ Fetching the data
 
 
 new commit
+protected branch
+added change for stale approval demo 
